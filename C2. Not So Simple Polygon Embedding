@@ -1,0 +1,8 @@
+https://codeforces.com/contest/1354/problem/C2
+
+C2. Not So Simple Polygon Embedding
+
+ans=(cos(π/4n))/(sin(π/2n))
+
+-> have rotated for optimal position which is diifrent from basic version and gives optimum answer. 
+  How does this rotation causes pi/4n ?
