@@ -13,7 +13,6 @@
 #include<math.h>
 #include<limits>
 #include<iomanip>
-
 using namespace std;
 #define fastio ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
 #define ll long long 
